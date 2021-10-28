@@ -5,9 +5,14 @@ VisualStudioVersion = 16.0.31702.278
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ImageStitchingWindowsServiceTopshelf", "ImageStitchingWindowsService\ImageStitchingWindowsServiceTopshelf.csproj", "{24138CB7-DE85-4045-80CA-2B0DE7E3C71A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileStichingLayer", "FileStichingLayer\FileStichingLayer.csproj", "{893286EE-E0CD-40CE-848D-7047F1389C74}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FileStichingLayer", "FileStichingLayer\FileStichingLayer.csproj", "{893286EE-E0CD-40CE-848D-7047F1389C74}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageStitchingWindowsServiceServiceProcess", "ImageStitchingWindowsServiceServiceProcess\ImageStitchingWindowsServiceServiceProcess.csproj", "{E6975E82-DE10-4EB0-9849-936B48E916D7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ImageStitchingWindowsServiceServiceProcess", "ImageStitchingWindowsServiceServiceProcess\ImageStitchingWindowsServiceServiceProcess.csproj", "{E6975E82-DE10-4EB0-9849-936B48E916D7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{10609FCE-1281-4122-A817-49533B32CD23}"
+	ProjectSection(SolutionItems) = preProject
+		Task.docx = Task.docx
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
