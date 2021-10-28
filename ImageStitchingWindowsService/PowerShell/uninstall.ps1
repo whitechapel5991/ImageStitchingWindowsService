@@ -1,0 +1,1 @@
+﻿Remove-Service ImageStitchingWindowsServiceTopshelf -Confirm:$false -Verbose
